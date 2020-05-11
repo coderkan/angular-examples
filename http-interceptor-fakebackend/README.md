@@ -1,9 +1,4 @@
-# Fake Backend Useage.md
-
-Created: May 03, 2020 12:06 AM
-Created By: Erkan Güzeler
-Last Edited By: Erkan Güzeler
-Last Edited Time: May 10, 2020 3:15 PM
+#  Angular HttpInterceptor usage like Fake Backend.
 
 Hi everyone,
 
@@ -267,7 +262,7 @@ export class EmployeeService {
 
  
 
-## Use in UI
+## Information about UI.
 
 html source code like below. 
 
