@@ -264,13 +264,12 @@ export class EmployeeService {
 
 ## Information about UI.
 
-html source code like below. 
-
 I have added a simple card to show an employe's full name, unit and avatar. It's very simple html code. I have used *ngFor for listing. And you will see delete icon on the right in card. You can easily delete a user with it.
 
  
-
 Adding a new employee, I have created a simple form that has only fullname input and unit dropdown. You easily add a new user with it.
+
+html source code like below. 
 
 ```html
 <div class="card-container">
@@ -312,7 +311,7 @@ Adding a new employee, I have created a simple form that has only fullname input
 
 `app.component.ts` source code. 
 
-Below code you will see the crud operations methods. I used RxJS in methods. 
+Below code you will see the crud operations methods. I used `RxJS` in methods. 
 
 ```jsx
 @Component({
