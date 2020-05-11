@@ -457,7 +457,10 @@ export class AppComponent implements OnInit {
 }
 ```
 
-Application Video.
+Application YouTube Video.
+
+[![](http://img.youtube.com/vi/Xf6CiCVK2Fo/0.jpg)](http://www.youtube.com/watch?v=Xf6CiCVK2Fo "")
+
 
 # **Conclusion**
 
